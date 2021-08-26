@@ -1,0 +1,10 @@
+{
+    "name": "htwick/proxy-pattern",
+    "description": "Proxy Pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\Structural\\Proxy\\": "src/"
+        }
+    },
+    "require": {}
+}
